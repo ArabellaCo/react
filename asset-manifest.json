@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.7ab89ea0.css",
+    "main.js": "/react/static/js/main.b0edd664.js",
+    "static/js/787.30237536.chunk.js": "/react/static/js/787.30237536.chunk.js",
+    "static/media/logo2.png": "/react/static/media/logo2.396defc14d6360b6ee22.png",
+    "static/media/CentraNo2-Bold.ttf": "/react/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/react/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/tree.png": "/react/static/media/tree.fb7ca04aa3101dc93e47.png",
+    "static/media/CentraNo2-Book.ttf": "/react/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/me.jpg": "/react/static/media/me.d08ec0faa492102e1747.jpg",
+    "static/media/footer-bg.png": "/react/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/flower.png": "/react/static/media/flower.96a2f155e90c4fbc4c18.png",
+    "static/media/team.png": "/react/static/media/team.b729a3e9f43f4c310d0e.png",
+    "static/media/converter.png": "/react/static/media/converter.ff0920ebbf3e70dfce52.png",
+    "static/media/games.svg": "/react/static/media/games.81b0b8857d0620f7b16c9dc84ce77ea7.svg",
+    "static/media/revicons.eot": "/react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/calculator.svg": "/react/static/media/calculator.c02b453e5c7701692bd6ae2fa3903ee7.svg",
+    "static/media/revicons.woff": "/react/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/contact.svg": "/react/static/media/contact.b7ceeb221fa7ccd4ee7b3322812e5201.svg",
+    "static/media/nav-icon3.svg": "/react/static/media/nav-icon3.72cef43bc93b04f52e29f022ef720f8b.svg",
+    "index.html": "/react/index.html",
+    "static/media/nav-icon1.svg": "/react/static/media/nav-icon1.dff40ae802524d8fc0cbce3f312abe4f.svg",
+    "static/media/nav-icon2.svg": "/react/static/media/nav-icon2.a39f0e5e47e442dafcc5c9c320f19f6f.svg",
+    "main.7ab89ea0.css.map": "/react/static/css/main.7ab89ea0.css.map",
+    "main.b0edd664.js.map": "/react/static/js/main.b0edd664.js.map",
+    "787.30237536.chunk.js.map": "/react/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab89ea0.css",
+    "static/js/main.b0edd664.js"
+  ]
+}
